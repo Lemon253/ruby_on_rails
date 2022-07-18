@@ -1,3 +1,0 @@
-def children
-    @children ||= []
-end
