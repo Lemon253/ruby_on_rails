@@ -1,0 +1,3 @@
+def children
+    @children ||= []
+end
